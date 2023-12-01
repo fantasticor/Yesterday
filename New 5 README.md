@@ -105,7 +105,7 @@ And don't forget to add cool functionnalities to your contract. The Starknet edu
 Do you want to learn more?
 If you are interested in
 
-Learning how to develop cool stuff on Starknet
+Learning how to develop cool stuff on Starknet is easier than you think
 How Starknet works
 What Cairo is
 How Stark proofs work You should join Basecamp, our free 6 weeks training program for aspiring Starknet devs. The next two cohorts start in April and you register here for a cohort in English, and aqui para una cohort en Español.
