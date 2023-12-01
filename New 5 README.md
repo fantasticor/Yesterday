@@ -1,4 +1,4 @@
-Deploying your first Cairo 1 contract to Starknet here is what you do
+Deploying your first Cairo 1 contract to Starknet here is what you do first
 With version 0.11 rolling out on Starknet, you can now deploy your first Cairo 1 contracts on Starknet! Fantastic!
 
 ... But how ser?
