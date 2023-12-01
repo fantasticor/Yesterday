@@ -98,7 +98,7 @@ starknet deploy --class_hash <class_hash> --account version_11
 Monitor your transaction. If it fails because of fee estimation, retry. Once your transaction is accepted_on_l2.... Congratulations! You've deployed your first Cairo 1 contract!
 
 Bragging on Twitter
-Don't forget to brag! Post your deployed contract here
+Don't forget to brag! Post your deployed contract here for better traction
 
 And don't forget to add cool functionnalities to your contract. The Starknet edu team will release soon the Cairo 1 version of Cairo-101. In the meanwhile, you can get ideas of what to do with Cairo 1 with Starklings-cairo1
 
